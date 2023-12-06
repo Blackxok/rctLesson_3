@@ -21,4 +21,10 @@ nav h1 {
 nav a {
    color: #333;
    padding: 4px 10px;
+   text-decoration: none;
+}
+
+nav a.active {
+   color: aliceblue;
+   background: #333;
 }
